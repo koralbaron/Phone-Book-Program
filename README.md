@@ -2,4 +2,4 @@
 ## Description
 A Phone Book program written in Java
 ## Screenshot
-<img src="PhoneBook.png"  width="40%" height="40%"/>
+<img src="PhoneBook.png"  width="50%" height="50%"/>
