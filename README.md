@@ -1,2 +1,3 @@
 # Phone-Book-Program
-A Phone Book program
+## Description
+A Phone Book program written in Java
